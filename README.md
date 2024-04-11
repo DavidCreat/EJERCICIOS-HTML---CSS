@@ -28,10 +28,6 @@ Siéntete libre de contribuir a este repositorio. Puedes añadir tus propios eje
 5. Haz push de tu rama: `git push origin tu-nueva-rama`
 6. Crea un pull request en GitHub.
 
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
-
 ---
 
 Espero que encuentres estos ejercicios útiles. ¡Disfruta aprendiendo y mejorando tus habilidades de desarrollo web!
